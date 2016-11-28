@@ -1,0 +1,16 @@
+
+#sticky-footer{
+    display: block;
+}
+#sticky-nav-right{
+    right: 0px;
+    display: none;
+}
+@media screen and (min-width: 736px) {
+    #sticky-footer{
+        display: none;
+    }
+    #sticky-nav-right{
+        display: block;
+    }
+}
