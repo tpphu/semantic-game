@@ -1,3 +1,20 @@
+#top-banner{
+    background: #ef6817;
+}
+#top-banner.menu>.item{
+    padding: 0;
+}
 #top-banner img{
     height: 50px;
+}
+
+#content{
+    margin-top: 53px;
+    margin-bottom: 64px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#sticky-footer{
+    background: #c18a66;
 }
